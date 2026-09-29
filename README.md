@@ -15,4 +15,4 @@ Desenvolver um programa em Python para converter temperaturas entre as escalas C
 1. Certifique-se de ter o [Python](https://www.python.org/) instalado em seu computador.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/luisaklockner-pixel/meu-primeiro-projeto-git.git](https://github.com/luisaklockner-pixel/meu-primeiro-projeto-git.git)
+   git clone [https://github.com/luisaklockner-pixel/meu-primeiro-projeto-git.git](https://github.com/luisaklockner-pixel/meu-primeiro-projeto-git.git)  
