@@ -1,10 +1,10 @@
-# Calculadora em Python
+# Conversor de Temperatura em Python
 
 ## Autor
-* **Nome:** Luisa Neumann Klöckner
+* **Nome:** Luisa Klockner
 
 ## Objetivo do Projeto
-Desenvolver uma calculadora simples usando Python para praticar estruturas condicionais, funções e entrada/saída de dados no terminal.
+Desenvolver um programa em Python para converter temperaturas entre as escalas Celsius, Fahrenheit e Kelvin, praticando fórmulas matemáticas, entrada de dados e estruturas condicionais.
 
 ## Tecnologias Utilizadas
 * Python 3
